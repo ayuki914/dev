@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ItemsDAOTest" project="ecsite" tests="14" started="14" failures="0" errors="0" ignored="0">
+  <testsuite name="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="2.11" displayname="ItemsDAOTest" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]">
+    <testcase name="test_number1" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.68" displayname="test_number1()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number1()]"/>
+    <testcase name="test_number2" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.093" displayname="test_number2()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number2()]"/>
+    <testcase name="test_number3" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.107" displayname="test_number3()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number3()]"/>
+    <testcase name="test_number4" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.123" displayname="test_number4()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number4()]"/>
+    <testcase name="test_number5" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.123" displayname="test_number5()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number5()]"/>
+    <testcase name="test_number6" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.119" displayname="test_number6()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number6()]"/>
+    <testcase name="test_number7" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.09" displayname="test_number7()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number7()]"/>
+    <testcase name="test_number8" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.138" displayname="test_number8()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number8()]"/>
+    <testcase name="test_number9" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.118" displayname="test_number9()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number9()]"/>
+    <testcase name="test_number10" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.127" displayname="test_number10()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number10()]"/>
+    <testcase name="test_number11" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.127" displayname="test_number11()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number11()]"/>
+    <testcase name="test_number12" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.118" displayname="test_number12()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number12()]"/>
+    <testcase name="test_number13" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.047" displayname="test_number13()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number13()]"/>
+    <testcase name="test_number14" classname="com.bh.ecsite.xyz.dao.ItemsDAOTest" time="0.1" displayname="test_number14()" uniqueid="[engine:junit-jupiter]/[class:com.bh.ecsite.xyz.dao.ItemsDAOTest]/[method:test_number14()]"/>
+  </testsuite>
+</testrun>
